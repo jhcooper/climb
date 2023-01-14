@@ -1,4 +1,0 @@
-The climb function has a runtime complexity of O(n). This is because each level of recursion requires 
-(n-1) + (n-3) + (n-5) = m where m is some constant
-There are n levels of the tree, thus there are m*n comparisons, where m is some constant
-m*n = O(n)
